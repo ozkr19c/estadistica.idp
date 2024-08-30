@@ -52,8 +52,8 @@ body {
   .btn-2 {
     background-image: linear-gradient(
       to right,
-      ##e31a21 0%,
+      #e31a21 0%,
       #9d1217 51%,
-      ##560a0c 100%
+      #560a0c 100%
     );
   }
