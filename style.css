@@ -43,9 +43,9 @@ body {
   .btn-1 {
     background-image: linear-gradient(
       to right,
-      #328cd1 0%,
-      #111b23 51%,
-      #20547d 100%
+      #afa27d 0%,
+      #eee0b9 51%,
+      #eee0b9 100%
     );
   }
   
