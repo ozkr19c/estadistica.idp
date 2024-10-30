@@ -21,7 +21,13 @@ body {
     display: block;
     margin: auto;
   }
-  
+    b {
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    display: block;
+    margin: auto;
+  }
   .btn {
     text-align: center;
     text-transform: uppercase;
